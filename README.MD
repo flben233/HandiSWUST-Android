@@ -1,4 +1,5 @@
 # 掌上西科安卓端
+项目已迁移至 https://github.com/flben233/HandiSWUST-Android-Rebuild
 基于一个浏览器项目修改而来，下载地址：
 
 [点我下载](https://github.com/flben233/HandiSWUST-Android/releases/)
